@@ -1,6 +1,6 @@
 cask "nidi" do
-  version "0.16.3"
-  sha256 "e757ba6ebdfc603f284373f3a36ac7dcb740b01f1b9cbf90dd1b7784ef2d4847"
+  version "0.17.0"
+  sha256 "a3ddafb5fad4140fa83311d143f911c2a4b1dacf9058a669731e5aa1dd281e66"
 
   url "https://nidi.marsdoo.com/v#{version}/Nidi_#{version}_universal.app.tar.gz"
   name "Nidi"
